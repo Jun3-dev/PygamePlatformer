@@ -1,2 +1,2 @@
 # pygamePlatformer
-THIS IS A WORK IN PROGRESS
+USe arrow keuys

@@ -268,7 +268,8 @@ class World():
 		#load images
 		dirt_img = pygame.image.load('C:/img/dirt.png')
 		grass_img = pygame.image.load('C:/img/grass.png')
-
+		
+		
 		row_count = 0
 		for row in data:
 			col_count = 0
